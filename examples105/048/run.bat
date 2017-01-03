@@ -1,0 +1,1 @@
+@echo CLASSPTH is:%pathstr%

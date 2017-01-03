@@ -1,0 +1,5 @@
+此程序在Linux环境下实现。
+读者可以使用如下命令来编译：
+gcc -o myping ping.c
+然后就可以使用如下命令来运行：
+myping <ipaddress>
