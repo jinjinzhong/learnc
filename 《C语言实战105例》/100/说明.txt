@@ -1,0 +1,8 @@
+请将程序中的main()函数中的
+initgraph(&gdriver,&gmode,"e:\\TC");	函数中的"e:\\TC"
+更改为你的TC安装目录。
+
+比如你的TC安装目录为D盘的Tools目录下的TC目录，那么上述语句改为：
+initgraph(&gdriver,&gmode,"d:\\Tools\\TC");
+
+
